@@ -1,0 +1,14 @@
+.cardContainer {
+    border-radius: 20px;
+    flex: 1;
+    height: 250px;
+    background-color: chartreuse;
+    padding: 10px;
+    box-shadow: 2px 5px 2px black;
+    min-width: 200px;
+    max-width: 200px;
+}
+
+.cardContainer:hover {
+    overflow: auto;
+}

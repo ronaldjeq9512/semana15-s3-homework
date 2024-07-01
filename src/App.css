@@ -1,0 +1,8 @@
+.container {
+  padding-inline: 16px;
+  flex: 1;
+}
+
+.title {
+  text-align: center;
+}

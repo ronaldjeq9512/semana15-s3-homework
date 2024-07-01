@@ -1,0 +1,11 @@
+.moviesTitle {
+    font-size: 25px;
+}
+
+.moviesContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-block: 12px;
+}
