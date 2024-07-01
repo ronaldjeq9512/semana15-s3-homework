@@ -1,10 +1,8 @@
-import { useState } from 'react'
 import './App.css'
 import { DATA } from './constants/items'
 import { Stream } from './components/Stream'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <main className='container'>
